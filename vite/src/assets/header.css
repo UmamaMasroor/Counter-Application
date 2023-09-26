@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(3, 121, 132);
+    color: rgb(227, 217, 217);
+    text-align: center;
+    justify-content: center;
+}
+button{
+    gap: 2rem;
+    margin: 10px;
+}
